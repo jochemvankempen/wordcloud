@@ -3,6 +3,8 @@
 I played around in python to create a wordcloud, within a mask, from a pdf file. 
 Here, I applied it to my PhD thesis in Neuroscience.  
 
+![alt text](/thesis_wordmap_bone.png "Brain wordcloud")
+
 ## Tutorials
 It is based on the following tutorials
 
